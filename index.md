@@ -31,6 +31,6 @@ _Deepak Gautam_
 
 [github](https://github.com/deepak5j)
 
-[![skull](https://github.com/Deepak5j/Deepak5j.github.io/blob/master/images/Skull-32x32.png)](https://deepak5j.github.io)
+[![skull](https://github.com/Deepak5j/helloProjectPage/blob/master/Skull-16x16.png)](https://deepak5j.github.io)
 
 For more details ---> [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
