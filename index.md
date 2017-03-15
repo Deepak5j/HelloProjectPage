@@ -29,8 +29,8 @@ _Italic Text_
 _Deepak Gautam_
 `Deepak Gautam`
 
-[github](https://github.com/deepak5j)
+[check my github account](https://github.com/deepak5j)
 
-[![skull](https://github.com/Deepak5j/helloProjectPage/blob/master/Skull-16x16.png)](https://deepak5j.github.io)
+check this skull[![skull](https://github.com/Deepak5j/helloProjectPage/blob/master/Skull-16x16.png)](https://deepak5j.github.io)
 
 For more details ---> [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
